@@ -109,7 +109,14 @@ public class frmtriangulo extends javax.swing.JFrame {
         
         jTextField_base.setText("");
         jTextField_altura.setText("");
+        
+        
+        
+        
+        
+        
         jTextField_area.setText("");
+       
      
      
      
